@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Clone TabNews</h1>
+      <h1>DEUS DEV BR</h1>
     </main>
   )
 }
